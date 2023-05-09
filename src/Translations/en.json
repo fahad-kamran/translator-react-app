@@ -1,0 +1,9 @@
+{
+    "HomePageTitle": "Home Page Title",
+    "left": "left",
+    "right": "right",
+    "top": "top",
+    "bottom": "bottom",
+    "submitText": "Submit",
+    "discription":"Let's now create a simple component containing a translatable text. Name the component HeaderComponent. In order to use translations you have to call useTranslation() which returns the translation function t(), and the i18n object. Wrap all text you want to translate with the function - e.g. t('your.translation.id')"
+}
